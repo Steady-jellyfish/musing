@@ -1,6 +1,8 @@
 .idea
 prompt.md
 musing-py/venv
-musing-py/.env
+musing-py/*.env
 
 musing-web/node_modules
+
+**/*.env

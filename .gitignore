@@ -2,6 +2,9 @@
 prompt.md
 musing-py/venv
 musing-py/*.env
+__pycache__/
+*.pyc
+
 
 musing-web/node_modules
 
